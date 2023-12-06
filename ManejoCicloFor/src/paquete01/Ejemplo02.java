@@ -15,7 +15,7 @@ public class Ejemplo02 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        //* el i+=2 presenta valores que vallan de 2 en 2 
         for (int i = 1; i <= 10; i+=2) {
             System.out.printf("%d\n", i);
         }

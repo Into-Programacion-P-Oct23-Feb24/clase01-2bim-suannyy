@@ -15,7 +15,7 @@ public class Ejemplo04 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        //* en el i-=2 sigifica que va decreciendo los valores de 2 en 2
         for (int i = 20; i >= 0; i-=2) {
             System.out.printf("%d\n", i);
         }
